@@ -70,7 +70,7 @@ For the best experience, use Google Colab with A100 GPU for optimal performance 
 
 #### 1. Clone the Repository in Colab
 ```bash
-!git clone https://github.com/your-username/Llama3-8b-Finetuning-QLoRA.git
+!git clone https://github.com/StevenD24/Llama3.1-8b-Finetuning-QLoRA.git
 %cd Llama3-8b-Finetuning-QLoRA
 ```
 
@@ -99,7 +99,7 @@ pip install uv
 
 #### 2. Clone the Repository
 ```bash
-git clone https://github.com/StevenD24/Llama3-8b-Finetuning-QLoRA.git
+git clone https://github.com/StevenD24/Llama3.1-8b-Finetuning-QLoRA.git
 cd Llama3-8b-Finetuning-QLoRA
 ```
 
