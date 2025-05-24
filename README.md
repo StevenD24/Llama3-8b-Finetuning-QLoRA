@@ -2,7 +2,7 @@
 
 ## About
 
-This project demonstrates how to fine-tune Meta's Llama3-8B model using QLoRA (Quantized Low-Rank Adaptation) on your own custom datasets. QLoRA is an efficient parameter-efficient fine-tuning technique that allows you to fine-tune large language models using 4-bit quantization and low-rank adapters, significantly reducing memory requirements while maintaining performance.
+This project demonstrates how to fine-tune Meta's Llama3-8B model using QLoRA (Quantized Low-Rank Adaptation) on your own custom datasets. QLoRA is a parameter-efficient fine-tuning technique that allows you to fine-tune large language models using 4-bit quantization and low-rank adapters, significantly reducing memory requirements while maintaining performance.
 
 ### Why Fine-tune on Personal Datasets?
 
